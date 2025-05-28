@@ -37,4 +37,4 @@ Mình đam mê nghiên cứu và xây dựng các hệ thống AI có giá trị
 
 ## ✨ Quote:
 
-> “AI không chỉ là công nghệ, mà là cách chúng ta tạo ra giá trị từ dữ liệu.”
+> "AI là lăng kính biến dữ liệu thô thành những giá trị thay đổi thế giới."
