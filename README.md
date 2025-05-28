@@ -18,12 +18,13 @@ Mình đam mê nghiên cứu và xây dựng các hệ thống AI có giá trị
 
 ## 📅 Dự án tiêu biểu
 
-| Tên Dự Án                      | Mô tả ngắn                                      | Link                                                                              |
-| ------------------------------ | ----------------------------------------------- | --------------------------------------------------------------------------------- |
-| **RAGFlow Enterprise Search**  | Tìm kiếm doanh nghiệp dựa trên RAG & LangChain  | [Xem ngay](https://huggingface.co/spaces/vanhai123/ragflow-enterprise-search-app) |
-| **Chest X-ray Predictor**      | Dự đoán bệnh phổi từ ảnh X-quang                | [Truy cập](https://huggingface.co/spaces/vanhai123/chest-xray-predictor)          |
-| **Spam Classifier + MLflow**   | Phân loại tin nhắn rác với MLflow Registry      | [Demo](https://huggingface.co/spaces/vanhai123/spam-mlflow-registry-demo)         |
-| **Vietnamese Social Comments** | Dataset phân loại bình luận tiếng Việt (tự tạo) | [Tải về](https://huggingface.co/datasets/vanhai123/vietnamese-social-comments)    |
+| Tên Dự Án                      | Mô tả ngắn                                        | Link                                                                              |
+| ------------------------------ | -----------------------------------------------   | --------------------------------------------------------------------------------- |
+| **RAGFlow Enterprise Search**  | Tìm kiếm doanh nghiệp dựa trên RAG & LangChain    | [Xem ngay](https://huggingface.co/spaces/vanhai123/ragflow-enterprise-search-app) |
+| **Chest X-ray Predictor**      | Dự đoán bệnh phổi từ ảnh X-quang                  | [Truy cập](https://huggingface.co/spaces/vanhai123/chest-xray-predictor)          |
+| **Spam Classifier + MLflow**   | Phân loại tin nhắn rác với MLflow Registry        | [Demo](https://huggingface.co/spaces/vanhai123/spam-mlflow-registry-demo)         |
+| **Vietnamese Social Comments** | Dataset phân loại bình luận tiếng Việt (tự tạo)   | [Tải về](https://huggingface.co/datasets/vanhai123/vietnamese-social-comments)    |
+| **phobert-vi-comment**         | Finetune PhoBERT để phân loại các comment trên mxh| [Demo](https://huggingface.co/spaces/vanhai123/phobert-vi-comment-app)            |
 
 ---
 
