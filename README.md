@@ -145,7 +145,7 @@ Mình đam mê nghiên cứu và xây dựng các hệ thống AI có giá trị
 **Tìm kiếm doanh nghiệp thông minh với RAG & LangChain**
 
 [![Demo](https://img.shields.io/badge/🌟_Live_Demo-FF6B6B?style=for-the-badge&logo=streamlit&logoColor=white)](https://huggingface.co/spaces/vanhai123/ragflow-enterprise-search-app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanhai123/ragflow-enterprise-search)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanhai1231/ragflow-enterprise-search)
 
 `RAG` `LangChain` `Vector Search` `Enterprise`
 
@@ -161,7 +161,7 @@ Mình đam mê nghiên cứu và xây dựng các hệ thống AI có giá trị
 **AI-powered medical diagnosis from chest X-rays**
 
 [![Demo](https://img.shields.io/badge/🏥_Medical_Demo-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white)](https://huggingface.co/spaces/vanhai123/chest-xray-predictor)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanhai123/chest-xray-predictor)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanhai1231/chest-xray-predictor)
 
 `Computer Vision` `Medical AI` `Deep Learning` `Healthcare`
 
@@ -178,7 +178,7 @@ Mình đam mê nghiên cứu và xây dựng các hệ thống AI có giá trị
 **Enterprise-grade spam detection with MLOps**
 
 [![Demo](https://img.shields.io/badge/🚀_MLOps_Demo-A8E6CF?style=for-the-badge&logo=mlflow&logoColor=white)](https://huggingface.co/spaces/vanhai123/spam-mlflow-registry-demo)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanhai123/spam-mlflow-registry)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanhai1231/spam-mlflow-registry)
 
 `MLflow` `Model Registry` `NLP` `Production ML`
 
@@ -211,7 +211,7 @@ Mình đam mê nghiên cứu và xây dựng các hệ thống AI có giá trị
 
 [![Demo](https://img.shields.io/badge/🎯_AI_Demo-DDA0DD?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/vanhai123/phobert-vi-comment-app)
 [![Model](https://img.shields.io/badge/🤗_Model_Hub-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/vanhai123/phobert-vi-comment)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanhai123/phobert-vi-comment)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanhai1231/phobert-vi-comment)
 
 `PhoBERT` `Vietnamese NLP` `Sentiment Analysis` `Transfer Learning` `Transformers`
 
@@ -242,25 +242,25 @@ Mình đam mê nghiên cứu và xây dựng các hệ thống AI có giá trị
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vanhai123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vanhai1231&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="GitHub Stats"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhai123&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhai1231&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
 
 </td>
 </tr>
 </table>
 
 ### 🔥 **Streak Stats**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhai123&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhai1231&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
 
 ### 📊 **Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanhai123&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanhai1231&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 
 ### 🏆 **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=vanhai123&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vanhai1231&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
