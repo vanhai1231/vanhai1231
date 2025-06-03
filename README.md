@@ -135,7 +135,7 @@ Mình đam mê nghiên cứu và xây dựng các hệ thống AI có giá trị
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vanhai123&repo=ragflow-enterprise-search&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="RAGFlow Enterprise Search"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vanhai1231&repo=ragflow-enterprise-search&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="RAGFlow Enterprise Search"/>
 
 ### 🔍 **RAGFlow Enterprise Search**
 <p align="center">
@@ -151,7 +151,7 @@ Mình đam mê nghiên cứu và xây dựng các hệ thống AI có giá trị
 
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vanhai123&repo=chest-xray-predictor&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="Chest X-ray Predictor"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vanhai1231&repo=chest-xray-predictor&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="Chest X-ray Predictor"/>
 
 ### 🫁 **Chest X-ray Predictor**
 <p align="center">
