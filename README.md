@@ -117,7 +117,11 @@ Finetune PhoBERT để phân loại các comment trên mạng xã hội
 
 ## <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="30"> **Quote**
 
-<img src="https://readme-quotes-api.herokuapp.com/quote?theme=radical&animation=grow_out_in&author=Hà%20Văn%20Hải&quote=AI%20là%20lăng%20kính%20biến%20dữ%20liệu%20thô%20thành%20những%20giá%20trị%20thay%20đổi%20thế%20giới" alt="Quote"/>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(8px); border: 1px solid rgba(255, 255, 255, 0.18);">
+
+### <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35"/> _"AI là lăng kính biến dữ liệu thô thành những giá trị thay đổi thế giới."_
+
+</div>
 
 </div>
 
@@ -127,8 +131,23 @@ Finetune PhoBERT để phân loại các comment trên mạng xã hội
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Cảm ơn bạn đã ghé thăm!**
 
-![Snake animation](https://github.com/vanhai123/vanhai123/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=✨ Happy Coding! ✨&fontSize=24&fontAlignY=70&desc=Let's build the future together!&descAlignY=85&descAlign=50"/>
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100">
+<details>
+<summary>🎯 <b>GitHub Stats</b></summary>
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanhai123&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhai123&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+connect+and+build+together!+🤝;AI+Engineer+%7C+Always+Learning+🚀">
+</h3>
 
 </div>
