@@ -134,12 +134,20 @@ Finetune PhoBERT để phân loại các comment trên mạng xã hội
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=✨ Happy Coding! ✨&fontSize=24&fontAlignY=70&desc=Let's build the future together!&descAlignY=85&descAlign=50"/>
 
 <details>
-<summary>🎯 <b>GitHub Stats</b></summary>
+<summary>📊 <b>GitHub Activity & Stats</b></summary>
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanhai123&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhai123&layout=compact&langs_count=8&theme=radical"/>
+
+### 🔥 **Streak Stats**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhai123&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak"/>
+
+### 📈 **Activity Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanhai123&bg_color=0d1117&color=e05397&line=e05397&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+
+### 🏆 **Achievements**
+<img src="https://github-profile-trophy.vercel.app/?username=vanhai123&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+
 </div>
 
 </details>
